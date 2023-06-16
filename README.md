@@ -1,4 +1,4 @@
-<h1Hi 👋, I'm Lester Ivan</h1>
+<h1>Hi 👋, I'm Lester Ivan</h1>
 <br>
 <p>A passionate frontend developer from Philippines</p>
 
