@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lester Ivan</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+Hi 👋, I'm Lester Ivan
+A passionate frontend developer from Philippines
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lesterivanrd12&label=Profile%20views&color=0e75b6&style=flat" alt="lesterivanrd12" /> </p>
 
