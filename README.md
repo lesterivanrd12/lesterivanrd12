@@ -1,4 +1,5 @@
 Hi 👋, I'm Lester Ivan
+<br>
 A passionate frontend developer from Philippines
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lesterivanrd12&label=Profile%20views&color=0e75b6&style=flat" alt="lesterivanrd12" /> </p>
