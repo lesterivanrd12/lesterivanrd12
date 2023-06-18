@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 <br>
 <br>
+
 - 🌱 I’m currently learning **Vue, Vuetify, Nuxt**
 
 - 👨‍💻 All of my projects are available at [https://lesterivanrd12.github.io/lesterivan/](https://lesterivanrd12.github.io/lesterivan/)
