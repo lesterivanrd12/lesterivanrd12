@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lesterivanrd12.github.io/lesterivan/](https://lesterivanrd12.github.io/lesterivan/)
 
-- 📫 Reat me at **lesterivan.dalagui@gmail.com**
+- 📫 Reach me at **lesterivan.dalagui@gmail.com**
 
 <br>
 <h3 align="left">Connect with me:</h3>
