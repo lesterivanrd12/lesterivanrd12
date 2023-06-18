@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lester Ivan</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
-
 <br>
 <br>
-<br>
-
 - 🌱 I’m currently learning **Vue, Vuetify, Nuxt**
 
 - 👨‍💻 All of my projects are available at [https://lesterivanrd12.github.io/lesterivan/](https://lesterivanrd12.github.io/lesterivan/)
 
 - 📫 How to reach me **lesterivan.dalagui@gmail.com**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/lesterivanrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lesterivanrd" height="30" width="40" /></a>
