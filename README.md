@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning **Laravel, Nuxt, Vuex**
+- 🌱 I’m currently learning **Laravel, Nuxt, Axios, Vuex**
 
 - 👨‍💻 All of my projects are available at [https://lesterivanrd12.github.io/lesterivan/](https://lesterivanrd12.github.io/lesterivan/)
 
