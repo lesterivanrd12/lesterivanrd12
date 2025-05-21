@@ -5,7 +5,7 @@
 
 - 🌱 My current stack **Vue, Vuetify, Element UI, React, Catalyst UI, Express JS, Node JS, Axios, Laravel, MySQL, Docker**
 
-- 👨‍💻 All of my projects are available at [https://levanrd.github.io/web-profile/(https://levanrd.github.io/web-profile/)]
+- 👨‍💻 All of my projects are available at [https://levanrd.github.io/web-profile]
 
 - 📫 Reach me at **lesterivan.dalaguit@gmail.com**
 
